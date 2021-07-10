@@ -1,0 +1,13 @@
+.friend-status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.friend-name {
+  margin-left: 15px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #4e4a52;
+  font-size: 20px;
+}
